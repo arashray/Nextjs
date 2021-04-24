@@ -1,4 +1,4 @@
-#This is a [Next.js](https://nextjs.org/) with [Typescript](https://www.typescriptlang.org) starter-kit
+This is a [Next.js](https://nextjs.org/) with [Typescript](https://www.typescriptlang.org) starter-kit
 
 ## Getting Started
 
