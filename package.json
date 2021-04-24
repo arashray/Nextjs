@@ -1,5 +1,5 @@
 {
-  "name": "soleta",
+  "name": "project",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,8 +11,7 @@
     "next": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "styled-components": "latest",
-    "vazir-font": "^26.0.2"
+    "styled-components": "latest"
   },
   "devDependencies": {
     "@types/node": "latest",
