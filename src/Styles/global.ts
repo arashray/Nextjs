@@ -13,7 +13,6 @@ export default createGlobalStyle`
     }
     body{ 
         font-size: 1.6rem;
-        font-family: "Vazir", sans-serif;
         min-height: 100vh;
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
